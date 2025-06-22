@@ -55,3 +55,17 @@
 
 Что оценивается
 Верный запрос.
+
+# Решение
+## Задание 1.
+![1](https://github.com/user-attachments/assets/ccfafabc-96cf-4d71-aafc-600278f87169)
+## Задание 2.
+![2](https://github.com/user-attachments/assets/27851431-7831-492b-8e3a-fdb047845d54)
+## Задание 3.
+![3](https://github.com/user-attachments/assets/d099d93b-c34f-4e5a-af2f-72e8f3458fbe)
+## Задание 4.
+![4](https://github.com/user-attachments/assets/d52a5dea-0399-4257-a05f-35eb5575d3d5)
+
+
+
+
